@@ -1,6 +1,6 @@
 # message
 
-A new Flutter project.
+A messaging application, this application was made for conversations between two people only, in order to use the firebase database, the use of auth and some other features.
 
 ## Getting Started
 
