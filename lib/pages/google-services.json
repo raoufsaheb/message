@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631784123466",
+    "project_id": "massege-3ff55",
+    "storage_bucket": "massege-3ff55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631784123466:android:e1fa975a1f87428dddcab3",
+        "android_client_info": {
+          "package_name": "com.sahebabderraouf.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631784123466-o8f79bn6hsvnlclc2il0s1hn4sgioehq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJFiJFLgxBZAM-lNOQu-PLh0MfNShxyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631784123466-o8f79bn6hsvnlclc2il0s1hn4sgioehq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
